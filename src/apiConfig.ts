@@ -1,5 +1,5 @@
 
-export const BASE_URL = 'http://localhost:8000';
+export const BASE_URL = 'https://backend-z0fu.onrender.com
 
 export const API_ENDPOINTS = {
   POST_CHART_DATA: '/post/chart/Data',
